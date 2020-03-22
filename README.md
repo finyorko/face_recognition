@@ -6,3 +6,4 @@
 >
 > 开发环境：Ubuntu16.04，Python2.7，tensorflow-gpu 1.3.0，opencv3.4.3
 
+>  博客地址：https://finyorko.top/4.html
